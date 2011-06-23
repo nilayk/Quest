@@ -1,0 +1,21 @@
+Welcome to Quest!
+
+Goal
+----
+Earn as many galleons (pirate currency) in least amount of time and reach the end!
+
+Gameplay
+--------
+Quest is an intelligent game application which knows your current location, and hence can generate mind bending quizzes for you to solve.
+
+Your aim is simple: solve clues to know your next destination. Once you reach your destination, solve the very easy (wicked smile) puzzle to unlock the clues for the next destination.
+
+Navigation
+----------
+The game has SIX tabs:
+1. Puzzle: Will show a puzzle only when you reach the correct destination. Solving puzzles will unlock clues for next destination. Solving a correct puzzle earns you 20 galleons! Wrong entry deducts 5 galleons.
+2. Clues: Gives you up to 3 clues about the next destination. 1st clue will be free free free! 2nd clue will cost you 5 galleons. Third one will be for 10 galleons. If you can't solve further, leave the game loser!
+3. Maps: Maps tab will show you your current location! Hurray! But every time you use the maps tab, expect to lose 20 freakin' galleons!
+4. Score: Displays your current galleons left and the time elapsed. Also shows the scores of your matey's playin' nearby.
+5. Rules: Aren't you already in it!
+6. Facts: Fun facts about your map for your nerdy brain.    
